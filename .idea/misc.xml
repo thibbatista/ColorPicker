@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/projetos_kotlin/ColorPikers/app/src/main/res/drawable/seekbar_a_background.xml" value="0.1815" />
+        <entry key="..\:/projetos_kotlin/ColorPikers/app/src/main/res/drawable/seekbar_a_progress.xml" value="0.1815" />
+        <entry key="..\:/projetos_kotlin/ColorPikers/app/src/main/res/drawable/seekbar_a_style.xml" value="0.1815" />
+        <entry key="..\:/projetos_kotlin/ColorPikers/app/src/main/res/drawable/seekbar_a_thumb.xml" value="0.1815" />
+        <entry key="..\:/projetos_kotlin/ColorPikers/app/src/main/res/drawable/seekbar_b_background.xml" value="0.1815" />
+        <entry key="..\:/projetos_kotlin/ColorPikers/app/src/main/res/drawable/seekbar_b_progress.xml" value="0.1815" />
+        <entry key="..\:/projetos_kotlin/ColorPikers/app/src/main/res/drawable/seekbar_b_style.xml" value="0.1815" />
+        <entry key="..\:/projetos_kotlin/ColorPikers/app/src/main/res/drawable/seekbar_b_thumb.xml" value="0.1815" />
+        <entry key="..\:/projetos_kotlin/ColorPikers/app/src/main/res/drawable/seekbar_g_background.xml" value="0.1815" />
+        <entry key="..\:/projetos_kotlin/ColorPikers/app/src/main/res/drawable/seekbar_g_progress.xml" value="0.1815" />
+        <entry key="..\:/projetos_kotlin/ColorPikers/app/src/main/res/drawable/seekbar_g_style.xml" value="0.1815" />
+        <entry key="..\:/projetos_kotlin/ColorPikers/app/src/main/res/drawable/seekbar_g_thumb.xml" value="0.1815" />
+        <entry key="..\:/projetos_kotlin/ColorPikers/app/src/main/res/drawable/seekbar_r_background.xml" value="0.1815" />
+        <entry key="..\:/projetos_kotlin/ColorPikers/app/src/main/res/drawable/seekbar_r_progress.xml" value="0.1815" />
+        <entry key="..\:/projetos_kotlin/ColorPikers/app/src/main/res/drawable/seekbar_r_style.xml" value="0.1815" />
+        <entry key="..\:/projetos_kotlin/ColorPikers/app/src/main/res/drawable/seekbar_r_thumb.xml" value="0.1815" />
+        <entry key="..\:/projetos_kotlin/ColorPikers/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/projetos_kotlin/ColorPikers/app/src/main/res/layout/colorpicker.xml" value="0.152" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8 (16)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
